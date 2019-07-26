@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Frameworks.TC1hrmloginbyusingmethods"/>
+      <class name="Frameworks.Modular2"/>
+      <class name="Frameworks.Datadrivenframework"/>
+      <class name="Frameworks.Log1byPOM"/>
+      <class name="Frameworks.HrmTCSbyReusablemethods"/>
+      <class name="Frameworks.Tc1Modulardriven"/>
+      <class name="Frameworks.RerusableMethods2"/>
+      <class name="Frameworks.Tc1counttext"/>
+      <class name="Frameworks.Tc1HrmloginbyusingRM"/>
+      <class name="Frameworks.Reusablemethods"/>
+      <class name="Frameworks.Tc1Scriptbyreusablemethods"/>
+      <class name="Frameworks.LoginscriptbyusingActionKeywords"/>
+      <class name="Frameworks.ModularScript1TC1"/>
+      <class name="Frameworks.Tc1"/>
+      <class name="Frameworks.Datadriven2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

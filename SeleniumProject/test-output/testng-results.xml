@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36313" started-at="2019-07-25T02:05:13Z" finished-at="2019-07-25T02:05:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36313" started-at="2019-07-25T02:05:13Z" finished-at="2019-07-25T02:05:49Z">
+      <class name="Webdriverprogrames.workingwithsikuli">
+        <test-method status="PASS" signature="open()[pri:0, instance:Webdriverprogrames.workingwithsikuli@4439f31e]" name="open" is-config="true" duration-ms="26621" started-at="2019-07-25T07:35:13Z" finished-at="2019-07-25T07:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="data()[pri:0, instance:Webdriverprogrames.workingwithsikuli@4439f31e]" name="data" duration-ms="9629" started-at="2019-07-25T07:35:40Z" finished-at="2019-07-25T07:35:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+      </class> <!-- Webdriverprogrames.workingwithsikuli -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="Frameworks.Reusablemethods">
+        <methods>
+          <include name="login"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Frameworks.Reusablemethods -->
+      <class name="Frameworks.Tc1counttext">
+        <methods>
+          <include name="Register"/>
+          <include name="verifyRegister"/>
+        </methods>
+      </class> <!-- Frameworks.Tc1counttext -->
+      <class name="Frameworks.TC1hrmloginbyusingmethods">
+        <methods>
+          <include name="operation"/>
+        </methods>
+      </class> <!-- Frameworks.TC1hrmloginbyusingmethods -->
+      <class name="Frameworks.LoginscriptbyusingActionKeywords">
+        <methods>
+          <include name="login"/>
+        </methods>
+      </class> <!-- Frameworks.LoginscriptbyusingActionKeywords -->
+      <class name="Frameworks.Tc1Scriptbyreusablemethods">
+        <methods>
+          <include name="tc1"/>
+        </methods>
+      </class> <!-- Frameworks.Tc1Scriptbyreusablemethods -->
+      <class name="Frameworks.Datadriven2">
+        <methods>
+          <include name="data"/>
+          <include name="open"/>
+        </methods>
+      </class> <!-- Frameworks.Datadriven2 -->
+      <class name="Frameworks.Datadrivenframework">
+        <methods>
+          <include name="operation"/>
+        </methods>
+      </class> <!-- Frameworks.Datadrivenframework -->
+      <class name="Frameworks.HrmTCSbyReusablemethods">
+        <methods>
+          <include name="Tc"/>
+        </methods>
+      </class> <!-- Frameworks.HrmTCSbyReusablemethods -->
+      <class name="Frameworks.Tc1">
+        <methods>
+          <include name="operation"/>
+        </methods>
+      </class> <!-- Frameworks.Tc1 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

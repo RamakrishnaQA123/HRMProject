@@ -1,0 +1,14 @@
+2018-09-02 09:31:24,686 INFO  [HRMLoginByTestNG] browser opend Succ 
+2018-09-02 09:31:27,974 INFO  [HRMLoginByTestNG] page succ navigated 
+2018-09-02 09:31:28,564 INFO  [HRMLoginByTestNG] Succ Username Enterd 
+2018-09-02 09:31:30,205 INFO  [HRMLoginByTestNG] succ password Entered 
+2018-09-02 09:31:42,946 INFO  [HRMLoginByTestNG] succ login completed 
+2018-09-02 09:31:43,772 INFO  [HRMLoginByTestNG] Succ Logout Verif 
+2018-09-02 09:31:44,245 INFO  [HRMLoginByTestNG] succ logout from page 
+2018-09-02 09:41:04,184 INFO  [Hrmloginbyusingproperties] call profile Browser 
+2018-09-02 09:41:21,228 INFO  [Hrmloginbyusingproperties] Succ Browser Opend 
+2018-09-02 09:41:26,049 INFO  [Hrmloginbyusingproperties] Succ Page navigated 
+2018-09-02 09:41:26,101 INFO  [Hrmloginbyusingproperties] call properties 
+2018-09-02 09:41:26,525 INFO  [Hrmloginbyusingproperties] Succ Enter Username By using properties 
+2018-09-02 09:41:27,764 INFO  [Hrmloginbyusingproperties] Succ Enter Password by using Properties 
+2018-09-02 09:41:37,733 INFO  [Hrmloginbyusingproperties] Succ Login Completed 
